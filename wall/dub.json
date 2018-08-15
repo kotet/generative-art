@@ -1,0 +1,11 @@
+{
+	"name": "wall",
+	"authors": [
+		"kotet"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, kotet",
+	"license": "MIT",
+	"targetPath": "build",
+	"workingDirectory": "build"
+}
